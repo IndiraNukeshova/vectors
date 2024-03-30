@@ -1,0 +1,1 @@
+The class implements various constructors, assignment operators, and the to_vector() method, which returns a vector containing elements of a given sequence.  The results demonstrate sequences of numbers according to the parameters of the constructors and assignment operators, as well as the work of the constructor with the initializer of the list.
